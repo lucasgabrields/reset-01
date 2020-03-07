@@ -1,0 +1,11 @@
+git clonehttps://github.com/lucasgabrields/reset-01.git
+
+dir 
+
+:.git
+
+git add
+
+git commit  -m "mensagem" 
+
+
