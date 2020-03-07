@@ -1,1 +1,1 @@
-# CWI reset e demais
+# CWI reset é show
